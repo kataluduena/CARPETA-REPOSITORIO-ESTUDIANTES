@@ -3,8 +3,7 @@
 ### Obra de Inspiración  
 <img width="1800" height="1205" alt="image" src="https://github.com/user-attachments/assets/339729dc-0cd0-49c1-9acf-da58ac7306d6" />
 
-
-### Dibujo Analogo  
+### Dibujo Físico  
  <img width="1479" height="1482" alt="image" src="https://github.com/user-attachments/assets/9c810fd9-ebc9-45c2-b6f2-a9b01c6c889c" />  
 
 ### Dibujo P5.js
@@ -24,5 +23,7 @@
 
 <img width="1910" height="988" alt="image" src="https://github.com/user-attachments/assets/b5b9a3b9-dd6d-4b0a-b860-83ee5a4153e8" />
 
+### Proceso de Réplica  
+No fue muy díficil pasarlo a digital, ya que en el dibujo físico escribí por todo el borde cuanto representa cada cuadrado de 0.5 cm, es decir escribí en cada cuadrado su equivalente (10, 20, 30, 40,..., 500 pixeles), y así pude réplicarlo de forma más rápida, lo único que se me dificultó fue hacer las líneas verdes, ya que terminan cuando empieza el circulo pequeño (100 pixeles de diametro), lo que tuve que hacer fue ponerlas después del circulo gris (500 pixeles de diametro) y despues de colocarlas, dibuje un circulo adicional coloreado del mismo valor (en RGB) que el circulo gris (500 pixeles de diametro) y así logre solucionar ese problema. Una vez que terminé de hacer la figura comente sus códigos. También decidí hacer unas cuantas modificaciones, como el color de las líneas verdes, que ahora tienen mayor coherencia, y también que estan más separadas de los triangulos fucsias, cambio que le da más equilibrio a la obra.
 
-[Dibujo en P5.js](https://editor.p5js.org/Josefina130/sketches/CaU0_R4sP)
+[Link Dibujo en P5.js](https://editor.p5js.org/Josefina130/sketches/CaU0_R4sP)
