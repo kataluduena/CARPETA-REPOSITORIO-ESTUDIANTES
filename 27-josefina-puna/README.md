@@ -3,7 +3,7 @@
 ### Obra de Inspiración  
 <img width="1800" height="1205" alt="image" src="https://github.com/user-attachments/assets/339729dc-0cd0-49c1-9acf-da58ac7306d6" />
 
-Mi dibujo esta inspirado en la obra de Elsa Bolivar, Abstracto Geométrico, 1972. En lo que me base fue en su forma de unir las formas geométricas (circulos y rectangulos/líneas) y como cambian de color según sus capas.
+Mi dibujo esta inspirado en la obra de Elsa Bolivar, Abstracto Geométrico, 1972. En lo que me base fue en su forma de unir las formas geométricas (circulos y rectangulos/líneas) y como cambian de tonalidad según sus capas.
 ### Dibujo Físico  
  <img width="1479" height="1482" alt="image" src="https://github.com/user-attachments/assets/9c810fd9-ebc9-45c2-b6f2-a9b01c6c889c" />  
 
